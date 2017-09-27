@@ -1,0 +1,1 @@
+Enter the number max. 170 to count the factorial by FOR loop.
